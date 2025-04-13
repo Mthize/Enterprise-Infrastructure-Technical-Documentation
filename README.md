@@ -25,7 +25,7 @@ This documentation provides a comprehensive guide for building and managing an e
 
 ## 📎 Download & Usage
 
-You can access the full technical document [here](https://docs.google.com/document/d/1pplOXyT_LB0Aet-RHfJoXt1pwWKwJkjl-qDVILGoheI/edit?usp=sharing)
+You can access the full technical document [Enterprise Infrastructure](https://docs.google.com/document/d/1pplOXyT_LB0Aet-RHfJoXt1pwWKwJkjl-qDVILGoheI/edit?usp=sharing)
 
 For detailed implementation steps and best practices, see the full document and reach out for suggestions, collaboration, or inquiries.
 
